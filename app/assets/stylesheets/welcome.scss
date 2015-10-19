@@ -1,9 +1,12 @@
 .social-btn {
-  height: 50px;
-  width: 50px;
-  background: ##FFF8DC;
-  border: none;
-  color: #DC143C;
+  position: relative;
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  background: #FFBF5E;
+  border: 1px dotted #A32900;
+  color: #A32900;
   text-align: center;
-  font: Georgia serif;
+  text-decoration: none;
+  padding: 5px
 }
